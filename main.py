@@ -880,15 +880,15 @@ with open('proba.csv') as csv_file:
             vectorrr.append(np.double(row[2]))
         line_count = line_count +1
 #print(line_count)
-print(vectorrr)
+#print(vectorrr)
 
 duraciones_cambiadas=[]
 i=0
 for n in duraciones_partitura:
     duraciones_cambiadas.append(n*vectorrr[i])
     i=i+1
-print(duraciones_cambiadas)
-print(i)
+#print(duraciones_cambiadas)
+#print(i)
 
 #####################
 i=0
@@ -908,7 +908,7 @@ for n in range(0,len(notas3_ordenadas)):
         i=i+1
         #print(onsets3_ordenados[n])
         #print(notas3_ordenadas[n].offset)
-        print("--------------------")
+        
     #else:
 
         #print(base_midi.flat[n])
@@ -919,12 +919,13 @@ for n in range(0,len(notas3_ordenadas)):
 
 
         s4.insert(notas3_ordenadas[n].offset,notas3_ordenadas[n])
-        print("hola")
-print(i)
+        
+
 mf4=midi.translate.streamToMidiFile(s4)
 
-mf4.open(concat_path(folderName, "caca.mid"), 'wb')
+mf4.open(concat_path(folderName, "audiomodelado.mid"), 'wb')
 mf4.write()
 mf4.close()
+
 
 

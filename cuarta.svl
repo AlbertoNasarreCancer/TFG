@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="3" name="Sujet 4.wav: Onset" sampleRate="44100" start="512" end="5771265" type="sparse" dimensions="1" resolution="1" notifyOnAdd="true" dataset="2" />
+    <dataset id="2" dimensions="1">
+      <point frame="512" label="" />
+      <point frame="45312" label="" />
+      <point frame="88320" label="" />
+      <point frame="131072" label="" />
+      <point frame="175872" label="" />
+      <point frame="221440" label="" />
+      <point frame="266240" label="New Point" />
+      <point frame="321536" label="New Point" />
+      <point frame="376832" label="" />
+      <point frame="420096" label="" />
+      <point frame="464896" label="" />
+      <point frame="506112" label="" />
+      <point frame="549120" label="" />
+      <point frame="593408" label="" />
+      <point frame="637696" label="" />
+      <point frame="681984" label="New Point" />
+      <point frame="727040" label="New Point" />
+      <point frame="773120" label="New Point" />
+      <point frame="818688" label="" />
+      <point frame="861952" label="" />
+      <point frame="902144" label="" />
+      <point frame="941312" label="" />
+      <point frame="980736" label="" />
+      <point frame="1020928" label="New Point" />
+      <point frame="1058816" label="New Point" />
+      <point frame="1096448" label="" />
+      <point frame="1135104" label="" />
+      <point frame="1176576" label="" />
+      <point frame="1217024" label="" />
+      <point frame="1259520" label="" />
+      <point frame="1301760" label="" />
+      <point frame="1340928" label="" />
+      <point frame="1387520" label="" />
+      <point frame="1427456" label="New Point" />
+      <point frame="1475840" label="" />
+      <point frame="1516800" label="" />
+      <point frame="1556480" label="" />
+      <point frame="1597696" label="" />
+      <point frame="1635840" label="" />
+      <point frame="1672704" label="" />
+      <point frame="1709824" label="" />
+      <point frame="1750016" label="" />
+      <point frame="1788160" label="" />
+      <point frame="1830144" label="" />
+      <point frame="1865984" label="" />
+      <point frame="1907712" label="New Point" />
+      <point frame="1945856" label="" />
+      <point frame="1989632" label="New Point" />
+      <point frame="2032640" label="New Point" />
+      <point frame="2079744" label="New Point" />
+      <point frame="2122752" label="" />
+      <point frame="2167552" label="" />
+      <point frame="2210304" label="" />
+      <point frame="2255872" label="New Point" />
+      <point frame="2312192" label="" />
+      <point frame="2356736" label="" />
+      <point frame="2397440" label="" />
+      <point frame="2437888" label="" />
+      <point frame="2479872" label="" />
+      <point frame="2517504" label="" />
+      <point frame="2554624" label="" />
+      <point frame="2596608" label="" />
+      <point frame="2653184" label="New Point" />
+      <point frame="2694144" label="New Point" />
+      <point frame="2731520" label="" />
+      <point frame="2774016" label="" />
+      <point frame="2805504" label="" />
+      <point frame="2851840" label="New Point" />
+      <point frame="2898944" label="New Point" />
+      <point frame="2942464" label="" />
+      <point frame="2984960" label="New Point" />
+      <point frame="3025920" label="New Point" />
+      <point frame="3067648" label="" />
+      <point frame="3115776" label="" />
+      <point frame="3151104" label="" />
+      <point frame="3189504" label="" />
+      <point frame="3231744" label="New Point" />
+      <point frame="3268608" label="New Point" />
+      <point frame="3326464" label="" />
+      <point frame="3367936" label="" />
+      <point frame="3405824" label="" />
+      <point frame="3442944" label="" />
+      <point frame="3482880" label="" />
+      <point frame="3526656" label="New Point" />
+      <point frame="3582976" label="New Point" />
+      <point frame="3641344" label="New Point" />
+      <point frame="3702272" label="" />
+      <point frame="3746048" label="" />
+      <point frame="3788544" label="" />
+      <point frame="3834880" label="New Point" />
+      <point frame="3886080" label="New Point" />
+      <point frame="3948544" label="New Point" />
+      <point frame="4015360" label="" />
+      <point frame="4062208" label="New Point" />
+      <point frame="4104448" label="" />
+      <point frame="4151296" label="" />
+      <point frame="4195840" label="" />
+      <point frame="4242432" label="" />
+      <point frame="4295680" label="New Point" />
+      <point frame="4340736" label="New Point" />
+      <point frame="4389888" label="" />
+      <point frame="4433920" label="" />
+      <point frame="4477184" label="" />
+      <point frame="4521984" label="" />
+      <point frame="4565504" label="" />
+      <point frame="4609792" label="" />
+      <point frame="4655360" label="" />
+      <point frame="4706304" label="New Point" />
+      <point frame="4761600" label="New Point" />
+      <point frame="4818944" label="New Point" />
+      <point frame="4864000" label="New Point" />
+      <point frame="4910080" label="" />
+      <point frame="4951808" label="" />
+      <point frame="4992000" label="" />
+      <point frame="5035520" label="" />
+      <point frame="5079040" label="" />
+      <point frame="5126144" label="New Point" />
+      <point frame="5169920" label="" />
+      <point frame="5209856" label="" />
+      <point frame="5252096" label="New Point" />
+      <point frame="5296896" label="" />
+      <point frame="5340928" label="" />
+      <point frame="5390080" label="" />
+      <point frame="5442816" label="" />
+      <point frame="5520896" label="" />
+      <point frame="5601280" label="New Point" />
+      <point frame="5693440" label="New Point" />
+      <point frame="5771264" label="New Point" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="0" type="timeinstants" name="Onset" model="3"  plotStyle="0" colourName="Purple" colour="#c832ff" darkBackground="false" />
+  </display>
+</sv>
